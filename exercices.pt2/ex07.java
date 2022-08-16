@@ -8,13 +8,13 @@ public class Ex_07 {
 
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Digite um número");
+        System.out.println("Digite 1º número");
         int x = entrada.nextInt();
 
-        System.out.println("Digite outro número");
+        System.out.println("Digite 2° número");
         int y = entrada.nextInt();
 
-        System.out.println("Digite mais um número");
+        System.out.println("Digite 3° número");
         int z = entrada.nextInt();
 
 
