@@ -1,7 +1,7 @@
 # Programação Orientada a Objetos
 
-IFC - Instituto Federal Catarinense
-Prof: Rodrigo Curvelo
+IFC - Instituto Federal Catarinense;
+Prof: Rodrigo Curvelo;
 
 ## Parte 1 - Exercícios de Estrutura Sequencial
 
