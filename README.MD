@@ -3,7 +3,9 @@
 IFC - Instituto Federal Catarinense
 Prof: Rodrigo Curvelo
 
-### Exercícios de Estrutura Sequencial
+## Parte 1 - Exercícios de Estrutura Sequencial
+
+## Parte 2 - Estrutura de Seleção (IF, ELSE, SWITCH)
 
 ## Contact
 
